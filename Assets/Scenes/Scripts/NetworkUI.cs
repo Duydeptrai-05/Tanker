@@ -30,13 +30,25 @@ public class NetworkUI : MonoBehaviour
     {
        
         menuPanel.SetActive(true);
-        gameHUD.SetActive(false);
+        // Thêm câu lệnh kiểm tra: "Nếu gameHUD có tồn tại thì mới tắt"
+        if (gameHUD != null)
+        {
+            gameHUD.SetActive(false);
+        }
     }
 
     private void SwitchToGameMode()
     {
-        
-        menuPanel.SetActive(false);
-        gameHUD.SetActive(true);
+        // Kiểm tra menuPanel trước khi tắt
+        if (menuPanel != null)
+        {
+            menuPanel.SetActive(false);
+        }
+
+        // QUAN TRỌNG: Kiểm tra gameHUD trước khi bật
+        if (gameHUD != null)
+        {
+            gameHUD.SetActive(true);
+        }
     }
 }

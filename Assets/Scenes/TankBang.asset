@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecd73ac3769ac6842a7472454deb51d7, type: 3}
+  m_Name: TankBang
+  m_EditorClassIdentifier: Assembly-CSharp::TankData
+  tankBody: {fileID: 6787893345888974787, guid: 294ac5cf972f68d45a52b4213f5412b3, type: 3}
+  tankTurret: {fileID: -2138761138921119770, guid: d7cfb13b8fc825240808c7c94bb41a01, type: 3}
+  bulletPrefab: {fileID: 5203737027612634918, guid: 0aebdec24bc1bb44fa125a40caac2352, type: 3}
+  moveSpeed: 3

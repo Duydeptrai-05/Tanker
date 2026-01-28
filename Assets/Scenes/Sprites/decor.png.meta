@@ -1,55 +1,19 @@
 fileFormatVersion: 2
-guid: 4192ec8399f545a488b787b152705e13
+guid: 80740b937f388c74b8e90ff5eaf07330
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6252805913084083930
-    second: decor_0
+      213: -9152725890835405237
+    second: unnamed (1)-Photoroom_0
   - first:
-      213: 8843726661577706292
-    second: decor_1
+      213: -5615345165051031848
+    second: unnamed (1)-Photoroom_1
   - first:
-      213: -3579472602480421216
-    second: decor_2
+      213: 3337944637050741403
+    second: unnamed (1)-Photoroom_2
   - first:
-      213: 2004466711981498611
-    second: decor_3
-  - first:
-      213: 968779181053603064
-    second: decor_4
-  - first:
-      213: -2484269097896370145
-    second: decor_5
-  - first:
-      213: -2603311821418127281
-    second: decor_6
-  - first:
-      213: -8736868614615867972
-    second: decor_7
-  - first:
-      213: 6892907418128013141
-    second: decor_8
-  - first:
-      213: -6709542322131757786
-    second: decor_9
-  - first:
-      213: -626145753933744596
-    second: decor_10
-  - first:
-      213: -5763186658515932357
-    second: decor_11
-  - first:
-      213: 3772985552029500671
-    second: decor_12
-  - first:
-      213: 3977439943124479116
-    second: decor_13
-  - first:
-      213: -667873837454055024
-    second: decor_14
-  - first:
-      213: -3553767443181825458
-    second: decor_15
+      213: 356776747412069569
+    second: unnamed (1)-Photoroom_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -82,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -171,13 +135,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: decor_0
+      name: unnamed (1)-Photoroom_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 84
-        width: 78
-        height: 55
+        x: 8
+        y: 8
+        width: 56
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,174 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 621492d96229939a0800000000000000
-      internalID: -6252805913084083930
+      spriteID: b462c36ab4cfaf080800000000000000
+      internalID: -9152725890835405237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: decor_1
+      name: unnamed (1)-Photoroom_1
       rect:
         serializedVersion: 2
-        x: 134
-        y: 83
-        width: 78
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43b8df9ea8a3bba70800000000000000
-      internalID: 8843726661577706292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_2
-      rect:
-        serializedVersion: 2
-        x: 228
-        y: 84
-        width: 76
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a659e502a8235ec0800000000000000
-      internalID: -3579472602480421216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_3
-      rect:
-        serializedVersion: 2
-        x: 316
-        y: 31
-        width: 112
-        height: 104
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f0a0cbbadb41db10800000000000000
-      internalID: 2004466711981498611
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_4
-      rect:
-        serializedVersion: 2
-        x: 435
-        y: 34
-        width: 57
-        height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8fc6e78488bc17d00800000000000000
-      internalID: 968779181053603064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_5
-      rect:
-        serializedVersion: 2
-        x: 501
-        y: 29
-        width: 82
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f10286dea6a168dd0800000000000000
-      internalID: -2484269097896370145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_6
-      rect:
-        serializedVersion: 2
-        x: 594
-        y: 24
-        width: 109
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f402cccf0bd2fdbd0800000000000000
-      internalID: -2603311821418127281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_7
-      rect:
-        serializedVersion: 2
-        x: 712
-        y: 28
-        width: 101
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cbddf80f84860c680800000000000000
-      internalID: -8736868614615867972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_8
-      rect:
-        serializedVersion: 2
-        x: 770
-        y: 93
+        x: 113
+        y: 18
         width: 42
-        height: 37
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 557dc2fc6c688af50800000000000000
-      internalID: 6892907418128013141
+      spriteID: 8de0de1e2594212b0800000000000000
+      internalID: -5615345165051031848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: decor_9
+      name: unnamed (1)-Photoroom_2
       rect:
         serializedVersion: 2
-        x: 826
-        y: 87
-        width: 55
-        height: 42
+        x: 151
+        y: 32
+        width: 18
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62513e38ecae2e2a0800000000000000
-      internalID: -6709542322131757786
+      spriteID: b92645356f2c25e20800000000000000
+      internalID: 3337944637050741403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: decor_10
+      name: unnamed (1)-Photoroom_3
       rect:
         serializedVersion: 2
-        x: 893
-        y: 94
-        width: 39
-        height: 28
+        x: 216
+        y: 15
+        width: 49
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,118 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c26f82711cb7f47f0800000000000000
-      internalID: -626145753933744596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_11
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 24
-        width: 77
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3b23ecc44c0500b0800000000000000
-      internalID: -5763186658515932357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_12
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 24
-        width: 76
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff446639e565c5430800000000000000
-      internalID: 3772985552029500671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_13
-      rect:
-        serializedVersion: 2
-        x: 228
-        y: 24
-        width: 77
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8c626d0e84b23730800000000000000
-      internalID: 3977439943124479116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_14
-      rect:
-        serializedVersion: 2
-        x: 827
-        y: 31
-        width: 55
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09926cb884c3bb6f0800000000000000
-      internalID: -667873837454055024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: decor_15
-      rect:
-        serializedVersion: 2
-        x: 888
-        y: 37
-        width: 52
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e429ccec65b7eaec0800000000000000
-      internalID: -3553767443181825458
+      spriteID: 1cc9d9dbf8683f400800000000000000
+      internalID: 356776747412069569
       vertices: []
       indices: 
       edges: []
@@ -536,22 +236,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      decor_0: -6252805913084083930
-      decor_1: 8843726661577706292
-      decor_10: -626145753933744596
-      decor_11: -5763186658515932357
-      decor_12: 3772985552029500671
-      decor_13: 3977439943124479116
-      decor_14: -667873837454055024
-      decor_15: -3553767443181825458
-      decor_2: -3579472602480421216
-      decor_3: 2004466711981498611
-      decor_4: 968779181053603064
-      decor_5: -2484269097896370145
-      decor_6: -2603311821418127281
-      decor_7: -8736868614615867972
-      decor_8: 6892907418128013141
-      decor_9: -6709542322131757786
+      unnamed (1)-Photoroom_0: -9152725890835405237
+      unnamed (1)-Photoroom_1: -5615345165051031848
+      unnamed (1)-Photoroom_2: 3337944637050741403
+      unnamed (1)-Photoroom_3: 356776747412069569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

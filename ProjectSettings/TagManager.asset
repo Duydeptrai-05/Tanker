@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Environment
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - UI
   - Player
   - Bullet
-  - 
+  - Obstacle
   - 
   - 
   - 
@@ -41,8 +42,32 @@ TagManager:
   - name: ground
     uniqueID: 2238129953
     locked: 0
+  - name: buicay
+    uniqueID: 4283785119
+    locked: 0
+  - name: tree
+    uniqueID: 2103271941
+    locked: 0
+  - name: scrap
+    uniqueID: 2116331973
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: stone
+    uniqueID: 1397208891
+    locked: 0
+  - name: player
+    uniqueID: 1376544233
+    locked: 0
+  - name: GunTurret
+    uniqueID: 4004676991
+    locked: 0
+  - name: bullet
+    uniqueID: 1286879861
+    locked: 0
+  - name: Effects
+    uniqueID: 509482621
     locked: 0
   m_RenderingLayers:
   - Default
